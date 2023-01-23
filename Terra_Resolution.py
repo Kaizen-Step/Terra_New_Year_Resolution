@@ -19,6 +19,10 @@ with c1:
 
     st.write("""# 🌔Terra (Resolution) #""")
 
+
+st.write(""" ### "We tried to use prediction models for this project but unfortunately did not meet the deadline; this is an Incomplete dashboard. Please do not evaluate this project and mark it as you wish" """)
+
+
 st.write("""
 Terra is a blockchain protocol and payment platform used for algorithmic stablecoins. The project was created in 2018 by Terraform Labs, a startup co-founded by Do Kwon and Daniel Shin. It is most known for its Terra stablecoin and the associated Luna reserve asset cryptocurrency.  
 In May 2022, the Terra blockchain was temporarily halted after the collapse of the stablecoin TerraUSD (UST) and Luna, in an event that wiped out almost USD45 billion in capitalization within a week. 
